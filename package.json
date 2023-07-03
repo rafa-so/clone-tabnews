@@ -4,7 +4,7 @@
   "description": "Projeto clone do tabnews.com.br para o curso.dev",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
